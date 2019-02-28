@@ -1,0 +1,8 @@
+prefix=/home/pedro/catkin_ws/install
+
+Name: drrobot_jaguarV2_player
+Description: Description of drrobot_jaguarV2_player
+Version: 1.2.1
+Cflags: -I/home/pedro/catkin_ws/install/include
+Libs: -L/home/pedro/catkin_ws/install/lib 
+Requires: DrRobotMotionSensorDriver geometry_msgs nav_msgs roscpp roslib rospy sensor_msgs std_msgs tf
